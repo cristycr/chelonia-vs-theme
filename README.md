@@ -6,6 +6,30 @@ Chelonia takes its name from the Greek word for turtle — and from Chelonia myd
 
 It's a dark theme inspired by the tranquility of the ocean depths. It blends sea colors, as deep aquamarine tones with warm coral accents, creating a relaxing and visually pleasing environment for coding. Perfect for developers who enjoy an elegant, natural style that reduces eye strain while maintaining clear contrast for readability :ocean:.
 
+## The color palette
+
+Background & Base:\
+#012f30 - Dark teal background
+#256d67 - Medium teal
+#bbbbbb - Light gray
+
+Green/blue colors:\
+#3AA59C - Marine teal
+#5FB7A2 - Bright teal
+#77B0AA - Soft teal
+#82AAFF - Sky blue
+#89DDFF - Light blue
+#aee8d7 - Very light teal
+#EEFFFF - Almost white blue
+
+Coral/Warm colors:\
+#df7942 - Orange
+#ea3c4d - Red
+#F07178 - Coral pink
+#F78C6C - Light coral
+#FFAE6B - Light orange
+#FFCB6B - Yellow-orange
+
 ## Why I created Chelonia
 
 As a web development student, I'm constantly eager to learn more about UX/UI design — finding ways to make websites and applications more approachable and enjoyable for users while achieving solid, consistent results.\
