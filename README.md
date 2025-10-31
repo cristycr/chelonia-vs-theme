@@ -1,14 +1,18 @@
 # Chelonia README
 
-## Working with Markdown
+## About the theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Chelonia takes its name from the Greek word for turtle — and from Chelonia mydas, the green sea turtle :turtle:.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+It's a dark theme inspired by the tranquility of the ocean depths. It blends sea colors, as deep aquamarine tones with warm coral accents, creating a relaxing and visually pleasing environment for coding. Perfect for developers who enjoy an elegant, natural style that reduces eye strain while maintaining clear contrast for readability :ocean:.
 
-## For more information
+## Why I created Chelonia
 
+As a web development student, I'm constantly eager to learn more about UX/UI design — finding ways to make websites and applications more approachable and enjoyable for users while achieving solid, consistent results.\
+Since I haven’t had the chance to collaborate or work for any company so far, I thought it would be a cool project to include in my portfolio :smirk:.
 
-**Enjoy!**
+I really enjoyed creating this project, and I learned quite a few things along the way — like how `.json` files work, how to build and upload a VS Code extension, and how color choices can completely change the mood of a workspace.
+
+So I hope you enjoy making use of Chelonia as much as I enjoyed making Chelonia!
+
+**Enjoy your coding!** :octocat:
