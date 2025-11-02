@@ -1,6 +1,6 @@
-# Chelonia README
+# Chelonia - The ocean theme
 
-![A preview of Visual Studio Code with the Chelonia theme](/assets/preview.png)
+![A preview of Visual Studio Code with the Chelonia theme](./assets/preview.png)
 
 ## About the theme
 
