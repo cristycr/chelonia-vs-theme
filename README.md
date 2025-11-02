@@ -9,26 +9,26 @@ It's a dark theme inspired by the tranquility of the ocean depths. It blends sea
 ## The color palette
 
 Background & Base:\
-#012f30 - Dark teal background
-#256d67 - Medium teal
-#bbbbbb - Light gray
+`#012f30`
+`#256d67`
+`#bbbbbb`
 
-Green/blue colors:\
-#3AA59C - Marine teal
-#5FB7A2 - Bright teal
-#77B0AA - Soft teal
-#82AAFF - Sky blue
-#89DDFF - Light blue
-#aee8d7 - Very light teal
-#EEFFFF - Almost white blue
+Sea colors:\
+`#3AA59C`
+`#5FB7A2`
+`#77B0AA`
+`#82AAFF`
+`#89DDFF`
+`#aee8d7`
+`#EEFFFF`
 
-Coral/Warm colors:\
-#df7942 - Orange
-#ea3c4d - Red
-#F07178 - Coral pink
-#F78C6C - Light coral
-#FFAE6B - Light orange
-#FFCB6B - Yellow-orange
+Coral colors:\
+`#df7942`
+`#ea3c4d`
+`#F07178`
+`#F78C6C`
+`#FFAE6B`
+`#FFCB6B`
 
 ## Why I created Chelonia
 
