@@ -1,5 +1,7 @@
 # Chelonia README
 
+![A preview of Visual Studio Code with the Chelonia theme](https://github.com/cristycr/chelonia-vs-theme/assets/preview.png)
+
 ## About the theme
 
 Chelonia takes its name from the Greek word for turtle — and from Chelonia mydas, the green sea turtle :turtle:.
@@ -9,9 +11,9 @@ It's a dark theme inspired by the tranquility of the ocean depths. It blends sea
 ## The color palette
 
 Background & Base:\
-`#012f30`
-`#256d67`
-`#bbbbbb`
+`#012F30`
+`#256D67`
+`#BBBBBB`
 
 Sea colors:\
 `#3AA59C`
@@ -19,12 +21,12 @@ Sea colors:\
 `#77B0AA`
 `#82AAFF`
 `#89DDFF`
-`#aee8d7`
+`#AEE8D7`
 `#EEFFFF`
 
 Coral colors:\
-`#df7942`
-`#ea3c4d`
+`#DF7942`
+`#EA3C4D`
 `#F07178`
 `#F78C6C`
 `#FFAE6B`
