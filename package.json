@@ -17,5 +17,9 @@
         "path": "./themes/Chelonia-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristycr/chelonia-vs-theme"
   }
 }
